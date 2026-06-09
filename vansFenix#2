@@ -72,3 +72,9 @@ vless://9d7b2395-88f3-4513-954d-5d9883747bde@84.252.128.69:443?encryption=none&s
 vless://9d7b2395-88f3-4513-954d-5d9883747bde@158.160.239.156:443?encryption=none&security=reality#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%93%B2%20%F0%9F%94%8B%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%E2%84%9631
 vless://9d7b2395-88f3-4513-954d-5d9883747bde@51.250.6.211:443?encryption=none&security=reality#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%93%B2%20%F0%9F%94%8B%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%E2%84%9625
 vless://9d7b2395-88f3-4513-954d-5d9883747bde@cluster-usa.zmeet.video:443?encryption=none&security=tls&sni=cluster-usa.zmeet.video&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%93%B2%20%F0%9F%9B%B0%20%D0%A1%D0%A8%D0%90
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@167.68.5.43:8443?encryption=none&security=tls&type=xhttp&sni=Itsrezu2.dr-ping.com&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%BE%20%5B%D0%91%D0%A1%5D%20wildVF
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@167.68.5.43:8443?encryption=none&security=tls&type=xhttp&sni=Itsrezu2.dr-ping.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%BE%20%5B%D0%91%D0%A1%5D%20wildVF
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@194.36.55.163:8443?encryption=none&security=tls&type=xhttp&sni=Itsrezu2.dr-ping.com&fp=chrome&allowInsecure=1&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%BE%20%5B%D0%91%D0%A1%5D%20wildVF
+vless://8bbf020e-653f-4a82-9900-1214e4e37dab@103.119.18.159:443?encryption=none&security=reality#%F0%9F%87%A8%F0%9F%87%BF%20%5B%D0%91%D0%A1%5D%20wildVF
+vless://8bbf020e-653f-4a82-9900-1214e4e37dab@103.119.18.159:443?encryption=none&security=reality#%F0%9F%87%A8%F0%9F%87%BF%20%5B%D0%91%D0%A1%5D%20wildVF
+vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?encryption=none&security=reality&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20%5B%D0%91%D0%A1%5D%20wildVF
